@@ -22,4 +22,6 @@
  
   ![Snake animation](https://github.com/PauloCBS/PauloCBS/blob/output/github-contribution-grid-snake.svg)
   
+
+  
 </div>
